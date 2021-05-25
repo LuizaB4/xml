@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contact-info>
+    <contact1>
+        <nume>Bohus Luiza</nume>
+        <facultate>Informatica Economica - FEAA</facultate>
+        <phone>0770 788 712</phone>
+    </contact1>
+    
+    <contact2>
+        <nume>Gabriela Mircea</nume>
+        <facultate>FEAA</facultate>
+        <phone>0751 234 567</phone>
+    </contact2>
+</contact-info>
